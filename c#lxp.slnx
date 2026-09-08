@@ -1,4 +1,7 @@
 <Solution>
-  <Project Path="c#lxp/CP2.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="CP2/CP2.csproj" />
   <Project Path="CP3/CP3.csproj" />
 </Solution>
